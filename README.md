@@ -1,4 +1,4 @@
-# 🚚 Ləzzət Express - Order Engine Backend Logic
+# 🚚 Taste Express - Order Engine Backend Logic
 
 A modern JavaScript project demonstrating ES6 asynchronous programming concepts using Promises, including Promise chaining, Promise combinators, and synchronous error handling.
 
